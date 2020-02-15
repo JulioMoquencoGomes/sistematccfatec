@@ -1,0 +1,8 @@
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.deps.json
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.dll
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.pdb
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.csprojAssemblyReference.cache
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfoInputs.cache
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfo.cs
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.dll
+/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.pdb

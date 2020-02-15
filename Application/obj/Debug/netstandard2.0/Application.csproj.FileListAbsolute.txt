@@ -1,0 +1,8 @@
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/bin/Debug/netstandard2.0/Application.deps.json
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/bin/Debug/netstandard2.0/Application.dll
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/bin/Debug/netstandard2.0/Application.pdb
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/obj/Debug/netstandard2.0/Application.dll
+/home/juliomoquenco/Documents/Projetos/tccfatec/Application/obj/Debug/netstandard2.0/Application.pdb
