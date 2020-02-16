@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/Infrastructure.csproj": {}
+    "/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/Infrastructure.csproj": {
+    "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj",
         "packagesPath": "/home/juliomoquenco/.nuget/packages/",
-        "outputPath": "/home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/",
+        "outputPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/juliomoquenco/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,88 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/juliomoquenco/.nuget/packages/",
+        "outputPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juliomoquenco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj": {
+                "projectPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }

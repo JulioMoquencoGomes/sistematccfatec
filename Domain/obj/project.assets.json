@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juliomoquenco/Documents/Projetos/tccfatec/Domain/Domain.csproj",
+      "projectUniqueName": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/juliomoquenco/Documents/Projetos/tccfatec/Domain/Domain.csproj",
+      "projectPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/Domain.csproj",
       "packagesPath": "/home/juliomoquenco/.nuget/packages/",
-      "outputPath": "/home/juliomoquenco/Documents/Projetos/tccfatec/Domain/obj/",
+      "outputPath": "/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juliomoquenco/.nuget/NuGet/NuGet.Config"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

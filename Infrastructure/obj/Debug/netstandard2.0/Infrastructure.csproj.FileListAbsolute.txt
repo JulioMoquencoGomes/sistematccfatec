@@ -6,3 +6,14 @@
 /home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfo.cs
 /home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.dll
 /home/juliomoquenco/Documents/Projetos/tccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.pdb
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.deps.json
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.dll
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.pdb
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/bin/Debug/netstandard2.0/Domain.dll
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/bin/Debug/netstandard2.0/Domain.pdb
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.csprojAssemblyReference.cache
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfoInputs.cache
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfo.cs
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.csproj.CopyComplete
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.dll
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.pdb

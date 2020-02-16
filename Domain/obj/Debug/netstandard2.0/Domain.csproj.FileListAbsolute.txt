@@ -6,3 +6,11 @@
 /home/juliomoquenco/Documents/Projetos/tccfatec/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
 /home/juliomoquenco/Documents/Projetos/tccfatec/Domain/obj/Debug/netstandard2.0/Domain.dll
 /home/juliomoquenco/Documents/Projetos/tccfatec/Domain/obj/Debug/netstandard2.0/Domain.pdb
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/bin/Debug/netstandard2.0/Domain.dll
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/Debug/netstandard2.0/Domain.dll
+/home/juliomoquenco/Documents/Projects/sistematccfatec/Domain/obj/Debug/netstandard2.0/Domain.pdb
